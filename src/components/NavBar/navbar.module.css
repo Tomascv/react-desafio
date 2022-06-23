@@ -1,0 +1,19 @@
+.navMain {
+    color: #186ab6;
+    font-size: 25px;    
+}
+
+.navList{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    list-style: none;
+    padding: 30px;
+    
+}
+
+.title {
+    color: rgb(13, 69, 143);
+    text-align: center;
+}
+
